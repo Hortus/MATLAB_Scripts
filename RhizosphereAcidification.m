@@ -1,9 +1,6 @@
 
 % By Alexander Q. Susko. 
-%Please cite: Susko, A. Q. 2016.  Phenotypic and Genetic Variation for 
-%Rhizosphere Acidification, a Candidate Trait for pH Adaptability, in 
-%Deciduous Azalea (Rhododendron sect. Pentanthera), Chapter 3. MS Thesis,
-%University of Minnesota Twin-Cities.
+%Please cite: Susko, A.Q., Rinehart, T.A., Bradeen, J.M. and Hokanson, S.C., 2018. An Evaluation of Two Seedling Phenotyping Protocols to Assess pH Adaptability in Deciduous Azalea (Rhododendron sect. Pentanthera G. Don). HortScience, 53(3), pp.268-274.
 
 %This script is useful for detecting rhizosphere acidification based on
 %colorimetric pH indicators in tissue culture media.  See the citation
